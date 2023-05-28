@@ -13,7 +13,7 @@ This is a simple Python application that converts text to speech using the `gTTS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jose137sp/text-to-speech-app.git
+   git clone https://github.com/jose137sp/Text-to-voice-Python
     ```
 2. Change to the project directory:
 
